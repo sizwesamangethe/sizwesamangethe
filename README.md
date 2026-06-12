@@ -11,13 +11,13 @@ Working toward a role as a SOC Analyst (Tier 1), with IT support as a secondary 
 
 📚 Currently Building Toward
 
-CompTIA A+ / Network+ / Security+
-(ISC)² Certified in Cybersecurity (CC)
-Microsoft AZ-900, SC-200 & SC-900
-TryHackMe - Cybersecurity 101, Pre-Security and SOC Level 1 paths
-Cisco JCA
-Cisco Networking Fundamentals
-Linux basics
+CompTIA A+ / Network+ / Security+,
+(ISC)² Certified in Cybersecurity (CC),
+Microsoft AZ-900, SC-200 & SC-900,
+TryHackMe - Cybersecurity 101, Pre-Security and SOC Level 1 paths,
+Cisco JCA,
+Cisco Networking Fundamentals,
+Linux basics and 
 Homelab practice
 
 
@@ -31,10 +31,10 @@ Entry-level roles in IT support, technical support, or cybersecurity/SOC
 
 🛠️ Skills:
 
-Web development fundamentals
-SQL basics
-Java
-Cybersecurity
+Web development fundamentals,
+SQL basics,
+Java,
+Cybersecurity aand
 Project Management
 
 🚧 Goal
