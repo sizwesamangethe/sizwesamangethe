@@ -1,6 +1,6 @@
 ## Hi there, I'm Sizwe👋
 
-I'm a Diploma in Systems Development Graduate focused on cybersecurity, networking and IT.
+I'm a dynamic Diploma in Systems Development Graduate focused on cybersecurity, networking and IT.
 
 I enjoy understanding how systems work, solving technical problems, and building real-world IT skills.
 
