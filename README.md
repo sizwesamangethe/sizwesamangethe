@@ -6,7 +6,7 @@ I enjoy understanding how systems work, solving technical problems, and building
 
 🔐 Career Focus
 
-Working toward a role as a SOC Analyst (Tier 1), with IT support as a secondary path. Drawn to defensive security — threat detection, monitoring, and incident response.
+Working toward a role as a SOC Analyst (Tier 1), with IT support as a secondary path. Drawn to defensive security - threat detection, monitoring, and incident response.
 
 
 📚 Currently Building Toward
