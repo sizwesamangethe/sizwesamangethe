@@ -34,7 +34,7 @@ Entry-level roles in IT support, technical support, or cybersecurity/SOC
 Web development fundamentals,
 SQL basics,
 Java,
-Cybersecurity aand
+Cybersecurity and
 Project Management
 
 🚧 Goal
