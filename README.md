@@ -13,7 +13,7 @@ Working toward a role as a SOC Analyst (Tier 1), with IT support as a secondary 
 
 CompTIA A+ / Network+ / Security+,
 (ISC)² Certified in Cybersecurity (CC),
-Microsoft AZ-900, SC-200 & SC-900,
+Microsoft AZ-900, SC-900
 TryHackMe - Cybersecurity 101, Pre-Security and SOC Level 1 paths,
 Cisco JCA,
 Cisco Networking Fundamentals,
