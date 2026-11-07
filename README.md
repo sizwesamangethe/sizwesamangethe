@@ -18,7 +18,7 @@ TryHackMe - Cybersecurity 101, Pre-Security and SOC Level 1 paths,
 LetsDend - SOC Fundamentals,
 Cisco JCA,
 Cisco Ethical Hacker,
-Cisco Linux essentials,
+Cisco Linux Essentials
 Fortinet NSE 1-3,  
 Palo Alto Networks,
 Homelab practice Immersive Labs
@@ -27,6 +27,8 @@ Homelab practice Immersive Labs
 💻 Also Exploring
 
 Web development as a side interest - building small projects to keep development skills sharp alongside my security focus.
+
+Cybersecurity Tools - Wireshark, Nmap, Splunk, Wazuh  
 
 🤝 Open To
 
