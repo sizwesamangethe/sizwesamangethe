@@ -18,7 +18,7 @@ TryHackMe - Cybersecurity 101, Pre-Security and SOC Level 1 paths,
 LetsDend - SOC Fundamentals,
 Cisco JCA,
 Cisco Ethical Hacker,
-Cisco Linux Essentials
+Cisco Linux Essentials,
 Fortinet NSE 1-3,  
 Palo Alto Networks,
 Homelab practice Immersive Labs
