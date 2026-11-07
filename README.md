@@ -2,7 +2,7 @@
 
 I'm a vibrant Diploma in Systems Development Graduate focused on cybersecurity, networking and IT.
 
-I enjoy understanding how systems work, solving technical problems, and building real-world IT skills.
+I enjoy understanding breaking down how systems work, solving technical problems, and building real-world IT skills.
 
 🔐 Career Focus
 
@@ -15,12 +15,12 @@ CompTIA A+ / Network+ / Security+,
 (ISC)² Certified in Cybersecurity (CC),
 Microsoft AZ-900, SC-900
 TryHackMe - Cybersecurity 101, Pre-Security and SOC Level 1 paths,
-LetsDend - SOC Fundamentals 
+LetsDend - SOC Fundamentals,
 Cisco JCA,
-Cisco Ethical Hacker
-Cisco Linux essentials
-Fortinet NSE 1-3  
-Palo Alto Networks
+Cisco Ethical Hacker,
+Cisco Linux essentials,
+Fortinet NSE 1-3,  
+Palo Alto Networks,
 Homelab practice Immersive Labs
 
 
