@@ -50,7 +50,7 @@ To become job-ready for an entry-level SOC Analyst or IT Support role through ce
 📫 Get In Touch
 
 
-Email: zwanesizwe026@gmail.com
+Email: sizwezwane026@gmail.com
 LinkedIn: https://www.linkedin.com/in/sizwe-zwane-b1082b257/
 
 
