@@ -28,7 +28,7 @@ Homelab practice Immersive Labs
 
 Web development as a side interest - building small projects to keep development skills sharp alongside my security focus.
 
-Cybersecurity Tools - Wireshark, Nmap, Splunk, Wazuh  
+Cybersecurity Tools - Wireshark, Nmap, Splunk, Wazuh, Microsoft Sentinal  
 
 🤝 Open To
 
