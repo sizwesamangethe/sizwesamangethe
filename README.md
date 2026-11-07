@@ -1,6 +1,6 @@
 ## Hi there, I'm Sizwe👋
 
-I'm a dynamic Diploma in Systems Development Graduate focused on cybersecurity, networking and IT.
+I'm a vibrant Diploma in Systems Development Graduate focused on cybersecurity, networking and IT.
 
 I enjoy understanding how systems work, solving technical problems, and building real-world IT skills.
 
@@ -15,10 +15,13 @@ CompTIA A+ / Network+ / Security+,
 (ISC)² Certified in Cybersecurity (CC),
 Microsoft AZ-900, SC-900
 TryHackMe - Cybersecurity 101, Pre-Security and SOC Level 1 paths,
+LetsDend - SOC Fundamentals 
 Cisco JCA,
-Cisco Networking Fundamentals,
-Linux basics and 
-Homelab practice
+Cisco Ethical Hacker
+Cisco Linux essentials
+Fortinet NSE 1-3  
+Palo Alto Networks
+Homelab practice Immersive Labs
 
 
 💻 Also Exploring
@@ -34,6 +37,7 @@ Entry-level roles in IT support, technical support, or cybersecurity/SOC
 Web development fundamentals,
 SQL basics,
 Java,
+Python
 Cybersecurity and
 Project Management
 
