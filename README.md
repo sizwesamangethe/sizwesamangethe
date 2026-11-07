@@ -2,7 +2,7 @@
 
 I'm a vibrant Diploma in Systems Development Graduate focused on cybersecurity, networking and IT.
 
-I enjoy understanding breaking down how systems work, solving technical problems, and building real-world IT skills.
+I enjoy breaking down how systems work, solving technical problems, and building real-world IT skills.
 
 🔐 Career Focus
 
