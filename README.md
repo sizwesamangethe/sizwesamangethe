@@ -11,8 +11,7 @@ Working toward a role as a SOC Analyst (Tier 1), with IT support as a secondary 
 
 📚 Currently Building Toward
 
-CompTIA A+ / Network+ / Security+,
-(ISC)² Certified in Cybersecurity (CC),
+CompTIA A+ / Network+ / Security+
 Microsoft AZ-900, SC-900
 TryHackMe - Cybersecurity 101, Pre-Security and SOC Level 1 paths,
 LetsDend - SOC Fundamentals,
