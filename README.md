@@ -2,11 +2,11 @@
 
 Diploma in Systems Development | SOC | Blue Team | Web App Security (Pen Testing)
 
-I'm a systems development graduate who builds web application, then learns how they get attacked and how does attack get detected. My focus is defensive security: monitoring, threat detection and incident response, backed by a developer's understanding of how appplications are, under the hood. 
+I'm a systems development graduate who builds web application, then learns how they get attacked and how does attack get detected with cybersecurity. My focus is defensive security: monitoring, threat detection and incident response, backed by a developer's understanding of how appplications are, under the hood. 
 
 Knowing how an web application is written, helps me to see how it can be attacked and what it looks like in logs, makes it so easy about how to write safer codes. 
 
-I enjoy breaking down and curious of how systems work, solving technical problems, and building real-world IT experience (skills).
+I'm curious and I enjoy breaking down of how systems work, solving technical problems, and building real-world IT experience (skills).
 
 🔐 Career Focus
 
