@@ -35,7 +35,7 @@ Growing into: Web Application Security and entry-level penetration testing
 
 
 💻 Development
-Java (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white), Python, SQL, HTML/CSS/JavaScript. I build small projects to keep my dev
+Java, Python, SQL, HTML/CSS/JavaScript. I build small projects to keep my dev
 skills sharp and to understand vulnerabilities from the code side.
 
 
