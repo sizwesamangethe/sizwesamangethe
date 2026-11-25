@@ -18,6 +18,7 @@ Growing into: Web Application Security and entry-level penetration testing
 
 
 
+
 🛡️ Blue Team
 - Log analysis, alert triage and incident documentation
 - SIEM and monitoring: Splunk, Wazuh, Microsoft Sentinel
