@@ -17,20 +17,27 @@ Primary: SOC Analyst (Tier 1), with a Blue Team Mindset
 Growing into: Web Application Security and entry-level penetration testing
 
 
+
 🛡️ Blue Team
 - Log analysis, alert triage and incident documentation
 - SIEM and monitoring: Splunk, Wazuh, Microsoft Sentinel
 - Network analysis: Wireshark, Nmap
 - Mapping detections to MITRE ATT&CK
 
+
+
 🕷️ Web App Security
 - OWASP Top 10: SQL injection, XSS, broken access control, auth flaws
 - Testing with Burp Suite and OWASP ZAP in legal lab environments
 - Secure coding: writing the vulnerable version, then the fixed one
 
+
+
 💻 Development
 Java, Python, SQL, HTML/CSS/JavaScript. I build small projects to keep my dev
 skills sharp and to understand vulnerabilities from the code side.
+
+
 
 
 🧩 Where Development Meets Security
@@ -40,6 +47,9 @@ This is the part of my journey I care about most:
 - Building small web apps in Java, Python, SQL and HTML/CSS/JavaScript
 - Learning the OWASP Top 10 by writing vulnerable code on purpose, then fixing it
 - Using what I learn about attacks to think about better detections and safer code
+- Bringing my two own interest together: software development and cybersecurity
+
+
 
 
 📚 Currently Building Toward
